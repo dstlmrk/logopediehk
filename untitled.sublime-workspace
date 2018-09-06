@@ -1,0 +1,1229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"content\tJekyll"
+			],
+			[
+				"c",
+				"cycle\tcycle"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"tex",
+				"text-dark"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"te",
+				"text-white"
+			],
+			[
+				"bg",
+				"bg-dark"
+			],
+			[
+				"mb-",
+				"mb-5"
+			],
+			[
+				"mb",
+				"mb-5"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"cir",
+				"circr"
+			],
+			[
+				"br",
+				"branches"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"cy",
+				"cylinder"
+			],
+			[
+				"sp",
+				"sphere"
+			],
+			[
+				"ci",
+				"circr"
+			],
+			[
+				"nut_",
+				"nut_depth"
+			],
+			[
+				"scr",
+				"screw_d"
+			],
+			[
+				"sc",
+				"screw_offset"
+			],
+			[
+				"coner",
+				"corner_r"
+			],
+			[
+				"hol",
+				"holder_width"
+			],
+			[
+				"cyl",
+				"cyl\tcylinder"
+			],
+			[
+				"rot",
+				"rotate"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"holde",
+				"holder_overlay_thickness"
+			],
+			[
+				"hold",
+				"holder_thickness"
+			],
+			[
+				"rou",
+				"rounded_corner_radius"
+			],
+			[
+				"tablet",
+				"tablet_depth"
+			],
+			[
+				"tabl",
+				"tablet_width"
+			],
+			[
+				"cable",
+				"cable_cutout_depth"
+			],
+			[
+				"calb",
+				"cable_cutout_height"
+			],
+			[
+				"tab",
+				"tablet_depth"
+			],
+			[
+				"hole",
+				"holder_thickness"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"map",
+				"map\tstd::map"
+			],
+			[
+				"ma",
+				"map\tstd::map"
+			],
+			[
+				"loa",
+				"load_graph"
+			],
+			[
+				"ve",
+				"vertices_cnt"
+			],
+			[
+				"fro",
+				"fromOffsets"
+			],
+			[
+				"prit",
+				"println"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"ofs",
+				"offsetRanges"
+			],
+			[
+				"ofe",
+				"offsetRanges"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"que",
+				"queriesStream"
+			],
+			[
+				"for",
+				"for\tfor - Block"
+			],
+			[
+				"tour",
+				"tournamentGroupsCtrl"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"l",
+				"col-lg-12"
+			],
+			[
+				"lg",
+				"col-lg-12"
+			],
+			[
+				"tou",
+				"tournament"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"next",
+				"nextStepWinner"
+			],
+			[
+				"nex",
+				"nextStepWinner"
+			],
+			[
+				"zoo",
+				"zoo3"
+			],
+			[
+				"z",
+				"zoo2"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"reject",
+				"rejection"
+			],
+			[
+				"consol",
+				"console.log()"
+			],
+			[
+				"local",
+				"localStorage: Storage\tWindow"
+			],
+			[
+				"stat",
+				"statusText\tXMLHttpRequest"
+			],
+			[
+				"setT",
+				"setTime( time: number ): number\tDate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"templa",
+				"templateUrl"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"find",
+				"find( selector: Selector ): jQuery\tjQuery - Traversing > Tree Traversal"
+			],
+			[
+				"document",
+				"document: Document\tWindow"
+			],
+			[
+				"master",
+				"master1"
+			],
+			[
+				"bro",
+				"BranchAndBound"
+			],
+			[
+				"net",
+				"network_mode"
+			],
+			[
+				"metho",
+				"methods"
+			],
+			[
+				"dura",
+				"duration_avg"
+			],
+			[
+				"met",
+				"methods"
+			],
+			[
+				"erro",
+				"error_test"
+			],
+			[
+				"tme",
+				"time_test"
+			],
+			[
+				"kafka",
+				"kafka_ips"
+			],
+			[
+				"kaf",
+				"kafka_ips_str"
+			],
+			[
+				"spar",
+				"sparkContext"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ite",
+				"items_cnt"
+			],
+			[
+				"bit",
+				"bits_cnt"
+			],
+			[
+				"meth",
+				"methods"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"rela",
+				"relative_error"
+			],
+			[
+				"relatie",
+				"relative_error"
+			],
+			[
+				"rel",
+				"relative_error"
+			],
+			[
+				"bane",
+				"banner"
+			],
+			[
+				"ban",
+				"banner"
+			],
+			[
+				"bannerIs",
+				"isBannerSuitable"
+			],
+			[
+				"bann",
+				"bannerTags"
+			],
+			[
+				"user",
+				"userIds"
+			],
+			[
+				"ad",
+				"additionalList"
+			],
+			[
+				"app",
+				"app"
+			],
+			[
+				"status",
+				"status_code"
+			],
+			[
+				"test",
+				"testapp"
+			],
+			[
+				"twi",
+				"twitterwall"
+			],
+			[
+				"api",
+				"api_secret"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"AP",
+				"API_SECRET"
+			],
+			[
+				"API",
+				"API_SECRET"
+			],
+			[
+				"di",
+				"dir_path"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"tw",
+				"tweet"
+			],
+			[
+				"sea",
+				"search_tweets"
+			],
+			[
+				"be",
+				"betamax_session"
+			],
+			[
+				"ex",
+				"expected_secret"
+			],
+			[
+				"indi",
+				"get_indices"
+			],
+			[
+				"pyt",
+				"pytwitterwall"
+			],
+			[
+				"su",
+				"suitableBanners"
+			],
+			[
+				"ba",
+				"banners"
+			],
+			[
+				"ac",
+				"activeData"
+			],
+			[
+				"rule",
+				"ruleId"
+			],
+			[
+				"rul",
+				"ruleId"
+			],
+			[
+				"act",
+				"activeRules"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"use",
+				"used_capacity"
+			],
+			[
+				"con",
+				"configuration"
+			],
+			[
+				"coni",
+				"continue"
+			],
+			[
+				"ne",
+				"next_subresult"
+			],
+			[
+				"cn",
+				"cnf2"
+			],
+			[
+				"cap",
+				"capacity"
+			],
+			[
+				"max",
+				"max_price"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    \"folders\":\n    [\n        {\n            \"follow_symlinks\": true,\n            \"path\": \"/home/marek/Dropbox/projekty/logopediehk/\"\n        }\n    ],\n\n    \"settings\":\n    {\n        \"Jekyll\":\n        {\n            // \"jekyll_posts_path\": \"/home/marek/Dropbox/projekty/logopediehk/_posts\",\n            // \"jekyll_drafts_path\": \"/home/marek/Dropbox/projekty/logopediehk/_drafts\",\n            // \"jekyll_uploads_path\": \"/home/marek/Dropbox/projekty/logopediehk/uploads\",\n            // \"jekyll_templates_path\": \"/home/marek/Dropbox/projekty/logopediehk/_templates\",\n        }\n    }\n}\n",
+			"file": "x.sublime-project",
+			"file_size": 581,
+			"file_write_time": 131806572575375326,
+			"settings":
+			{
+				"buffer_size": 581,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "untitled.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    // ************************************************************************************\n    // \n    //        ÛÛÛ           ÛÛÛÛÛ                 ÛÛÛÛ  ÛÛÛÛ      ÛÛÛÛÛÛÛÛ        ÛÛÛÛÛ   \n    //       °°°           °°ÛÛÛ                 °°ÛÛÛ °°ÛÛÛ     ÛÛÛ°°°°ÛÛÛ     ÛÛÛ°°°ÛÛÛ \n    //       ÛÛÛÛÛ  ÛÛÛÛÛÛ  °ÛÛÛ ÛÛÛÛÛ ÛÛÛÛÛ ÛÛÛÛ °ÛÛÛ  °ÛÛÛ    °°°    °ÛÛÛ    ÛÛÛ   °°ÛÛÛ\n    //      °°ÛÛÛ  ÛÛÛ°°ÛÛÛ °ÛÛÛ°°ÛÛÛ °°ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ       ÛÛÛÛÛÛ°    °ÛÛÛ    °ÛÛÛ\n    //       °ÛÛÛ °ÛÛÛÛÛÛÛ  °ÛÛÛÛÛÛ°   °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ      °°°°°°ÛÛÛ   °ÛÛÛ    °ÛÛÛ\n    //       °ÛÛÛ °ÛÛÛ°°°   °ÛÛÛ°°ÛÛÛ  °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ     ÛÛÛ   °ÛÛÛ   °°ÛÛÛ   ÛÛÛ \n    //       °ÛÛÛ °°ÛÛÛÛÛÛ  ÛÛÛÛ ÛÛÛÛÛ °°ÛÛÛÛÛÛÛ  ÛÛÛÛÛ ÛÛÛÛÛ   °°ÛÛÛÛÛÛÛÛ  ÛÛ °°°ÛÛÛÛÛ°  \n    //       °ÛÛÛ  °°°°°°  °°°° °°°°°   °°°°°ÛÛÛ °°°°° °°°°°     °°°°°°°°  °°    °°°°°°   \n    //   ÛÛÛ °ÛÛÛ                       ÛÛÛ °ÛÛÛ                                          \n    //  °°ÛÛÛÛÛÛ                       °°ÛÛÛÛÛÛ                                           \n    //   °°°°°°                         °°°°°°                                            \n    // \n    // \n    //              Be sure to configure these settings so that new posts\n    //               and new drafts are created in the correct directory.\n    //\n    // ************************************************************************************\n\n    // This should point to your \"_posts\" directory.\n    // NOTE: This should be an absolute path. Also, the path should\n    // match your system convention. For example, Windows machines should\n    // have a path similar to \"C:\\\\Users\\\\username\\\\site\\\\_posts\".\n    // *nix systems should have a path similar to \"/Users/username/site/_posts\".\n    \"jekyll_posts_path\": \"\",\n\n    // This should point to your \"_drafts\" directory.\n    // NOTE: This should be an absolute path. Also, the path should\n    // match your system convention. For example, Windows machines should\n    // have a path similar to \"C:\\\\Users\\\\username\\\\site\\\\_drafts\".\n    // *nix systems should have a path similar to \"/Users/username/site/_drafts\".\n    \"jekyll_drafts_path\": \"\",\n\n    // Optionally override the location of the templates directory.\n    // Make sure your override directory is named \"_templates\", especially\n    // if you plan on using the \"jekyll_auto_find_paths\" setting.\n    // NOTE: This should be an absolute path. Also, the path should\n    // match your system convention. For example, Windows machines should\n    // have a path similar to \"C:\\\\Users\\\\username\\\\site\\\\templates\".\n    // *nix systems should have a path similar to \"/Users/username/site/_templates\".\n    \"jekyll_templates_path\": \"\",\n\n    // If you have multiple Jekyll blogs, but don't use Sublime Projects,\n    // you can optionally have sublime-jekyll look for the `_posts` or `_drafts`\n    // or `uploads` folders open in your sidebar. This should have a value of \n    // true or false.\n    \"jekyll_auto_find_paths\": false,\n\n    // This should point to the default uploads directory.\n    // NOTE: This should be an absolute path. Also, the path should\n    // match your system convention. For example, Windows machines should\n    // have a path similar to \"C:\\\\Users\\\\username\\\\site\\\\uploads\".\n    // *nix systems should have a path similar to \"/Users/username/site/uploads\".\n    \"jekyll_uploads_path\": \"\",\n\n    // This string value should represent the baseurl for the uploads directory.\n    // For example, if your uploads directoy is \"uploads/\" and you have an image\n    // called \"image.png\", then the output of inserting the image in your post\n    // would be \"<uploads_baseurl>/uploads/image.png\", with <uploads_baseurl>\n    // replaced by its value.\n    // If you wish to have an absolute link and you have \"url\" defined in your jekyll\n    // config file, then you can set the value to: \"{{ site.url }}/{{ site.baseurl }}\"\n    \"jekyll_uploads_baseurl\": \"{{ site.baseurl }}\",\n\n    // This determines the file type for new drafts and posts. Can be set to one of\n    // three accepted values: \"Markdown\", \"Textile\", \"HTML\" or \"Plain text\".\n    \"jekyll_default_markup\": \"Markdown\",\n\n    // Optionally override the file extension format for Markdown files. Valid options\n    // include: markdown, mdown, mkdn, mkd, md. Do not include the dot in your string value.\n    // NOTE: We use \"markdown\" as the standard file extension for Markdown files\n    // as suggested by John Gruber, developer of Markdown, in his blog post here:\n    // http://daringfireball.net/linked/2014/01/08/markdown-extension\n    \"jekyll_markdown_extension\": \"markdown\",\n\n    // This determines if sublime-jekyll should send deleted drafts, posts and templates to\n    // the system trash/recycling bin, or immediately purge them from disk. The\n    // default value is `false` which means files are purged immediately.\n    \"jekyll_send_to_trash\": false,\n\n    // ************************************************************************************\n    // If for some reason you want to change the way either the date\n    // or the datetime string is formatted, you can override those formats\n    // here using valid Python datetime.strftime() format codes.\n    //\n    // If you need a refresher on these codes, have a look at the Python\n    // documentation found here:\n    //\n    // http://docs.python.org/2/library/datetime.html#strftime-and-strptime-behavior\n    // ************************************************************************************\n\n    // A valid Python strftime string\n    \"jekyll_date_format\": \"%Y-%m-%d\",\n\n    // A valid Python strftime string\n    \"jekyll_datetime_format\": \"%Y-%m-%d %H:%M:%S\",\n\n    // ************************************************************************************\n    // Package Debug\n    // ************************************************************************************\n    \n    // If set to true, will print Jekyll debug information to the Sublime Text console.\n    \"jekyll_debug\": false,\n\n    // If set to true, all Jekyll Utility commands will be hidden from menus and the Command Palatte.\n    \"jekyll_utility_disable\": false\n}",
+			"file": "/home/marek/.config/sublime-text-3/Packages/Jekyll/Jekyll.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 6084,
+				"line_ending": "Unix",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 196,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "test",
+			"file_size": 0,
+			"file_write_time": 131806556899854488,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_site/index.html",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: py",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 650.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/marek/Dropbox/projekty/logopediehk",
+		"/home/marek/Dropbox/projekty/logopediehk/_site"
+	],
+	"file_history":
+	[
+		"/home/marek/Dropbox/projekty/logopediehk/untitled.sublime-project",
+		"/home/marek/.config/sublime-text-3/Packages/Jekyll/Default (Linux).sublime-keymap",
+		"/home/marek/.config/sublime-text-3/Packages/User/Jekyll.sublime-settings",
+		"/home/marek/Dropbox/projekty/logopediehk/_site/logopediehk.sublime-project",
+		"/home/marek/Dropbox/projekty/logopediehk/test",
+		"/home/marek/Dropbox/projekty/logopediehk/.sublime-project",
+		"/home/marek/Dropbox/projekty/logopediehk/.gitignore",
+		"/home/marek/Dropbox/projekty/logopediehk/_site/logo.sublime-project",
+		"/home/marek/Dropbox/projekty/logopediehk/logopediehk.sublime-project",
+		"/home/marek/.config/sublime-text-3/Packages/Jekyll/README.md",
+		"/home/marek/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/marek/Dropbox/performax/.tmp",
+		"/home/marek/Dropbox/projekty/myblog/_site/about/index.html",
+		"/home/marek/Dropbox/projekty/myblog/index.md",
+		"/home/marek/Dropbox/projekty/myblog/about.md",
+		"/home/marek/Dropbox/projekty/myblog/404.html",
+		"/home/marek/Plocha/kontakty.csv",
+		"/home/marek/Plocha/contacts_3.csv",
+		"/home/marek/Plocha/export.csv",
+		"/home/marek/Plocha/kontakty_2.csv",
+		"/home/marek/Plocha/kontakty (1).csv",
+		"/home/marek/Dokumenty/projekty/performax/zoidberg/src/main.py",
+		"/home/marek/Dokumenty/projekty/performax/stats/conf/stats.yml",
+		"/home/marek/Plocha/testdump.sql",
+		"/home/marek/Plocha/adsense_get_refresh_token.py",
+		"/home/marek/Plocha/spatne_bannery.txt",
+		"/home/marek/Plocha/test.py",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/extractors/etarget.py",
+		"/home/marek/Plocha/startbootstrap-bare-gh-pages/index.html",
+		"/home/marek/Dokumenty/projekty/performax/aggregators/docker-compose.yml",
+		"/home/marek/Dokumenty/projekty/performax/aggregators/docker-compose.prod.yml",
+		"/home/marek/Dokumenty/projekty/performax/.tmp",
+		"/home/marek/Dokumenty/projekty/yield/extractors/generic-extractors/adsense.json",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/main.py",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/extractors/revcontent.py",
+		"/home/marek/Dokumenty/projekty/yield/extractors/configurations/adnow.json",
+		"/home/marek/Dokumenty/projekty/performax/stats/credentials/pub-3375315304218610.json",
+		"/home/marek/Plocha/polak_reklamace.txt",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/extractors/adsense.py",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/extractors/adnow.py",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/extractors/sklik.py",
+		"/home/marek/Dokumenty/projekty/yield/extractors/configurations/adsense_shit.json",
+		"/home/marek/Dokumenty/projekty/yield/extractors/configurations/adsense_cnc.json",
+		"/home/marek/Dokumenty/projekty/yield/extractors/configurations/adsense.json",
+		"/home/marek/Dokumenty/projekty/performax/stats/conf/client_secret_573018214633-rokpli0p33jddqobqeift99349cm1qo3.apps.googleusercontent.com.json",
+		"/home/marek/Dokumenty/projekty/performax/stats/credentials/pub-9351958709261256.json",
+		"/home/marek/Dokumenty/projekty/performax/stats/conf/client_secret_823988572751-sfbao43mbmcfvikkkr0hjfkpuk6hiitv.apps.googleusercontent.com.json",
+		"/home/marek/Dokumenty/projekty/performax/stats/credentials/pub-7212943916864462.json",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/exporter.py",
+		"/home/marek/Dokumenty/projekty/yield/extractors/generic-extractors/revcontent.json",
+		"/home/marek/Dokumenty/projekty/yield/extractors/generic-extractors/etarget_sk.json",
+		"/home/marek/Dokumenty/projekty/yield/extractors/generic-extractors/etarget_cz.json",
+		"/home/marek/Dokumenty/projekty/yield/extractors/generic-extractors/README.md",
+		"/home/marek/Dokumenty/projekty/yield/extractors/generic-extractors/adform.json",
+		"/home/marek/Dropbox/performax/keboola/extractors/mgid_keboola.json",
+		"/home/marek/Dropbox/performax/keboola/extractors/adform_keboola.json",
+		"/home/marek/Dokumenty/projekty/yield/extractors/ex-adnow/README.md",
+		"/home/marek/Dokumenty/projekty/performax/aggregators/Dockerfile",
+		"/home/marek/Dokumenty/projekty/yield/docker-compose.yml",
+		"/home/marek/Dokumenty/projekty/yield/notes.md",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/slack.py",
+		"/home/marek/Dokumenty/projekty/yield/test.py",
+		"/home/marek/Plocha/revcontent_test.py",
+		"/home/marek/Dropbox/performax/google_authentificator/keys",
+		"/home/marek/Plocha/etarget_sk_keboola.json",
+		"/home/marek/Plocha/etarget_keboola.json",
+		"/home/marek/Plocha/adsense_keboola.json",
+		"/home/marek/Plocha/revcontent_keboola.json",
+		"/home/marek/Dokumenty/projekty/performax/models/conf/models.conf",
+		"/home/marek/Plocha/cd/src/impl/README.md",
+		"/home/marek/Plocha/how_it_works",
+		"/home/marek/Dropbox/skola/dp/thesis/FITthesis.cls",
+		"/home/marek/Dropbox/projekty/catcher/mysql/fixtures/2_dataset.sql",
+		"/home/marek/Plocha/catcher_games_macro",
+		"/home/marek/Plocha/etarget_test.py",
+		"/home/marek/Dropbox/projekty/hrajfrisbee/css/stylish-portfolio.css",
+		"/home/marek/Plocha/hrajfrisbee/index.html",
+		"/home/marek/Dropbox/projekty/hrajfrisbee/index.html",
+		"/home/marek/Dropbox/projekty/hrajfrisbee/README.md",
+		"/home/marek/Plocha/hrajfrisbee/README.md",
+		"/home/marek/Plocha/hrajfrisbee/gulpfile.js",
+		"/home/marek/Plocha/hrajfrisbee/css/custom.css",
+		"/home/marek/Plocha/hrajfrisbee/css/stylish-portfolio.css",
+		"/home/marek/Plocha/hrajfrisbee/.travis.yml",
+		"/home/marek/Dokumenty/projekty/performax/models/src/performax/models/adchoices.py",
+		"/home/marek/Plocha/stats_test.py",
+		"/home/marek/Dokumenty/projekty/performax/stats/src/extractors/performax.py",
+		"/home/marek/Dokumenty/projekty/performax/aggregators/.gitlab-ci.yml",
+		"/home/marek/Dokumenty/id: 168903",
+		"/home/marek/Dokumenty/projekty/performax/api/docker-compose.yml",
+		"/home/marek/Dropbox/projekty/catcher/src/models/database.py",
+		"/home/marek/Dokumenty/projekty/performax/models/src/performax/__init__.py",
+		"/home/marek/Dropbox/projekty/catcher/src/wsgi.py",
+		"/home/marek/Plocha/performax.banner_stat.sql",
+		"/home/marek/Dropbox/projekty/catcher/src/web/web.py",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/tournament/standings.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/partials/tournament_menu.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/partials/menu.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/tournament/teams.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/tournament/overview.html",
+		"/home/marek/Plocha/HU_CESKEVPN_CZ.ovpn",
+		"/home/marek/Dropbox/projekty/catcher/src/web/static/css/style.css",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/tournament/groups.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/tournament/settings.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/tournament/playoffs.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/base.html",
+		"/home/marek/Dropbox/projekty/catcher/src/web/templates/tournament/top_players.html",
+		"/home/marek/Dropbox/skola/mi/3dt/B171CWS-dstlmrk/README.md",
+		"/home/marek/Dropbox/skola/mi/3dt/B171HWS-dstlmrk/tablet_bar_mount.scad",
+		"/home/marek/Dokumenty/projekty/performax/proxysql/proxysql_galera_checker.sh",
+		"/home/marek/Dokumenty/projekty/proxysql-admin-tool_/proxysql-admin",
+		"/home/marek/Plocha/flake.scad",
+		"/home/marek/Dropbox/skola/mi/3dt/B171CWS-dstlmrk/scads/flake.scad",
+		"/home/marek/Dropbox/skola/mi/3dt/B171CWS-dstlmrk/scads/main.scad",
+		"/home/marek/Dropbox/skola/mi/3dt/B171CWS-dstlmrk/slicng_profile/slic3r_config_bundle.ini",
+		"/home/marek/Dropbox/skola/mi/3dt/B171CWS-dstlmrk/slicng_profile/slic3r_config_bundle (Case Conflict).ini",
+		"/home/marek/Dropbox/skola/mi/3dt/B171CWS-dstlmrk/stls/.gitkeep",
+		"/home/marek/Dokumenty/projekty/proxysql-admin-tool_/proxysql_galera_checker",
+		"/home/marek/Dokumenty/projekty/proxysql-admin-tool/proxysql-admin",
+		"/home/marek/Plocha/data-test.xml",
+		"/home/marek/Dokumenty/projekty/performax/proxysql/setup.sh",
+		"/home/marek/Dropbox/projekty/catcher_b/mysql/fixtures/2_dataset.sql",
+		"/home/marek/Dropbox/projekty/spotify-jingle-manager/README.md",
+		"/home/marek/Dropbox/projekty/catcher_b/catcher/models/team.py",
+		"/home/marek/Dropbox/projekty/catcher_b/mysql/fixtures/1_schema.sql",
+		"/home/marek/Dokumenty/projekty/proxysql/src/main.cpp",
+		"/home/marek/Dokumenty/projekty/proxysql/lib/ClickHouse_Server.cpp",
+		"/home/marek/Dokumenty/projekty/proxysql/lib/SQLite3_Server.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/marek/Dropbox/projekty/logopediehk/_site",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "x.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "untitled.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/marek/.config/sublime-text-3/Packages/Jekyll/Jekyll.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6084,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "_site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"performax/delivery/lib/delivery.py"
+			],
+			[
+				"de",
+				"~/Dokumenty/Projekty/performax/delivery/lib/delivery.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1442.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

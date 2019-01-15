@@ -1,5 +1,42 @@
-<nav>
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
-  {% endfor %}
-</nav>
+<div class="ui container">
+	<div class="ui stackable grid" style="margin-top: 1.5rem;">
+		<div class="row">
+			<div class="five wide column">
+				<h1>Logopedie HK</h1>
+			</div>
+			<div class="eleven wide column">
+				<div class="ui stackable grid">
+					<div class="six wide column">
+						<h3 class="ui header">
+							<i class="home icon"></i>
+							<div class="content">
+								Bratří Štefanů 895/1
+								<div class="sub header">500 03, Hradec Králové</div>
+							</div>
+						</h3>
+					</div>
+					<div class="five wide column">
+						<h3 class="ui header">
+							<i class="clock outline icon"></i>
+							<div class="content">
+								7:30 - 15:00
+								<div class="sub header">Pondělí až pátek</div>
+							</div>
+						</h3>
+					</div>
+					<div class="five wide column" style="padding-top: 10px;">
+						<div class="ui large blue button">
+							<i class="horizontally flipped phone icon"></i>
+							+420 495 865 230
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ui large secondary pointing menu" style="margin-top: 2.5rem;">
+		{% for item in site.data.navigation %}
+			<a href="{{ item.link }}" class="{% if page.url == item.link %}active{% endif %} item">{{ item.name }}</a>
+		{% endfor %}
+	</div>
+</div>

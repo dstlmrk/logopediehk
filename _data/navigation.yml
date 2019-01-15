@@ -1,8 +1,10 @@
-- name: Home
+- name: Úvod
   link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+- name: "Logopedická péče v ČR"
+  link: /logopedicka_pece.html
+- name: O nás
+  link: /o_nas.html
+- name: Ceník
+  link: /cenik.html
+- name: Kontakt
+  link: /kontakt.html

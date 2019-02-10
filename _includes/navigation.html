@@ -40,9 +40,21 @@
 			</div>
 		</div>
 	</div>
-	<div class="ui huge secondary pointing menu" style="margin-top: 2.5rem;">
-		{% for item in site.data.navigation %}
-			<a href="{{ item.link }}" class="{% if page.url == item.link %}active{% endif %} item">{{ item.name }}</a>
-		{% endfor %}
+	<div style="margin-top: 2.5rem;">
+		<!-- TODO: message pro aktuality -->
+		<!-- <div class="ui icon warning message">
+			<i class="doctor icon"></i>
+			<div class="content">
+				<div class="header">
+					<h2>15. března bude zavřeno</h2>
+				</div>
+				<p>Více informací o&nbsp;tom, kdo má právo na logopedickou péči hrazenou ze&nbsp;zdravotního pojištění najdete <a href="/logopedicka_pece.html">zde</a></p>
+			</div>
+		</div> -->
+		<div class="ui huge secondary pointing menu">
+			{% for item in site.data.navigation %}
+				<a href="{{ item.link }}" class="{% if page.url == item.link %}active{% endif %} item">{{ item.name }}</a>
+			{% endfor %}
+		</div>
 	</div>
 </div>

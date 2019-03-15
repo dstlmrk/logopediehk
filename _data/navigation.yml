@@ -1,10 +1,10 @@
 - name: Úvod
-  link: /
+  link: index.html
 - name: "Logopedická péče v ČR"
-  link: /logopedicka_pece.html
-- name: O nás
-  link: /o_nas.html
+  link: logopedicka_pece.html
+- name: Aktuality z oboru
+  link: aktuality.html
 - name: Ceník
-  link: /cenik.html
+  link: cenik.html
 - name: Kontakt
-  link: /kontakt.html
+  link: kontakt.html

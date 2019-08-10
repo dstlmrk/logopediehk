@@ -39,35 +39,49 @@ title: Logopedie Hradec Králové
         </div>
     </div>
 </div>
-<!-- </div> -->
 
-<div class="ui horizontal divider" style="margin-top: 3rem; margin-bottom: 2rem;">Poslední aktuality</div>
-
-<div class="ui stackable grid">
-    <div class="row">
-        <div class="column">
-            <h3 class="ui header">
-                <a href="#">Článek o logopedickém vzdělání</a>
-                <div class="sub header">12. 1. 2019</div>
-            </h3>
-            <p>
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque habitant morbi
-                tristique senectus
-                et netus et malesuada fames ac turpis egestas. Quisque porta. Aliquam erat volutpat. Integer
-                pellentesque quam vel velit. Phasellus rhoncus. Proin pede metus, vulputate nec, fermentum
-                fringilla.
-            </p>
-            <h3 class="ui header">
-                <a href="#">Článek o logopedickém vzdělání</a>
-                <div class="sub header">12. 1. 2019</div>
-            </h3>
-            <p>
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque habitant morbi
-                tristique senectus.
-            </p>
+<div id="new_posts_container" style="display: none">
+    <div class="ui horizontal divider" style="margin-top: 3rem; margin-bottom: 2rem;">
+        Poslední aktuality
+    </div>
+    <div class="ui stackable grid">
+        <div class="row">
+            <div class="column">
+                {% for post in site.posts limit:2 %}
+                <div class="post" style="display: none">
+                    <h2 class="ui header">
+                        {{ post.title }}
+                        <div class="sub header">Publikováno
+                            <span id="date">
+                                {{ post.date | date: "%d. %m. %Y" }}
+                            </span>
+                        </div>
+                    </h2>
+                    <p>{{ post }}</p>
+                </div>
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>
+
+<script>
+    const new_posts_container = document.getElementById("new_posts_container");
+    const new_posts = new_posts_container.getElementsByClassName("post");
+    const two_months_ago_date = new Date(Date.now() - 60*24*60*60*1000).getTime();
+    const pattern = /(\d{2})\. (\d{2})\. (\d{4})/;
+
+    for (let post_container of new_posts) {
+        let post_date_string = post_container.querySelector("#date").textContent.trim();
+        let post_date = new Date(post_date_string.replace(pattern,'$3-$2-$1')).getTime();
+        if (post_date > two_months_ago_date) {
+            new_posts_container.style.display = 'block';
+            post_container.style.display = 'block';
+        }
+    }
+</script>
+
+
 
 <div class="ui horizontal divider" style="margin-top: 3rem; margin-bottom: 2rem;">O nás</div>
 

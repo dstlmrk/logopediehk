@@ -10,9 +10,17 @@ title: Logopedie Hradec Králové
 <div class="ui stackable grid">
     <div class="row">
         <div class="column">
-            <p>
-                TODO: tady bude seznam vsech clanku/aktualit z oboru
-            </p>
+            {% for post in site.posts limit:30 %}
+            <h2 class="ui header">
+                {{ post.title }}
+                <div class="sub header">Publikováno
+                    <span class="post_date">
+                        {{ post.date | date: "%d. %m. %Y" }}
+                    </span>
+                </div>
+            </h2>
+            <div>{{ post }}</div>
+            {% endfor %}
         </div>
     </div>
 </div>

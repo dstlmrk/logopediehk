@@ -1,0 +1,24 @@
+{% if site.data.info.alert.title or site.data.info.alert.text %}
+<div class="mobile only tablet only">
+    <div class="ui warning message">
+        <div class="content">
+            <div class="header">
+                <h2>{{ site.data.info.alert.title }}</h2>
+            </div>
+            <p>{{ site.data.info.alert.text }}</p>
+        </div>
+    </div>
+</div>
+
+<div class="ui container tablet or lower hidden">
+    <div class="ui icon warning message">
+        <i class="warning circle icon"></i>
+        <div class="content">
+            <div class="header">
+                <h2>{{ site.data.info.alert.title }}</h2>
+            </div>
+            <p>{{ site.data.info.alert.text }}</p>
+        </div>
+    </div>
+</div>
+{% endif %}

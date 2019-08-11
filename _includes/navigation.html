@@ -44,21 +44,15 @@
         </div>
     </div>
 
-    <!-- <div class="ui icon warning message">
-        <i class="doctor icon"></i>
-        <div class="content">
-            <div class="header">
-                <h2>15. března bude zavřeno</h2>
-            </div>
-            <p>Více informací o&nbsp;tom, kdo má právo na logopedickou péči hrazenou ze&nbsp;zdravotního
-                pojištění najdete <a href="/logopedicka_pece.html">zde</a></p>
-        </div>
-    </div> -->
+    <div style="margin-top: 2rem;">
 
-    <div class="ui massive secondary pointing menu" style="margin-top: 2rem;">
-        {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" class="{% if page.path == item.link %}active{% endif %} item">{{ item.name }}</a>
-        {% endfor %}
+        {% include alert_msg.html %}
+
+        <div class="ui massive secondary pointing menu">
+            {% for item in site.data.navigation %}
+            <a href="{{ item.link }}" class="{% if page.path == item.link %}active{% endif %} item">{{ item.name }}</a>
+            {% endfor %}
+        </div>
     </div>
 </div>
 

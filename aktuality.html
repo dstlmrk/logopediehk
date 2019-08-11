@@ -3,11 +3,14 @@ layout: default
 title: Logopedie Hradec Králové
 ---
 
-<h1 class="page_header mobile only tablet only">
-    Aktuality z oboru
-</h1>
-
 <div class="ui stackable grid">
+    <div class="row mobile only tablet only">
+        <div class="column">
+            <h1 class="page_header">
+                Aktuality z oboru
+            </h1>
+        </div>
+    </div>
     <div class="row">
         <div class="column">
             {% for post in site.posts limit:30 %}

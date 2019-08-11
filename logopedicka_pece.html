@@ -3,17 +3,22 @@ layout: default
 title: Logopedie Hradec Králové
 ---
 
-<h1 class="page_header mobile only tablet only">
-    Logopedická péče v ČR
-</h1>
-
-
-{% capture my-include %}{% include logopedicka_pece.md %}{% endcapture %}
-{{ my-include | markdownify }}
-
 <div class="ui stackable grid">
+
+    <div class="row mobile only tablet only">
+        <div class="column">
+            <h1 class="page_header">
+                Logopedická péče v&nbsp;ČR
+            </h1>
+        </div>
+    </div>
+
     <div class="row">
         <div class="column">
+
+            {% capture my-include %}{% include logopedicka_pece.md %}{% endcapture %}
+            {{ my-include | markdownify }}
+
             <h1 class="ui header">
                 <div class="content">
                     Kdo poskytuje logopedickou péči?

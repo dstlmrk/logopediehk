@@ -1,5 +1,7 @@
-message:
+# Pokud zustane prazdne, nebude se zprava zobrazovat!
+alert:
   title:
+#  title: Objednávání na srpen uzařeno!
   text:
 
 contact:

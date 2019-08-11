@@ -3,8 +3,8 @@
 
 <head>
     <!-- Standard Meta -->
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta name="author" content="Marek Dostal">
     <title>{{ page.title }}</title>
@@ -12,7 +12,7 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"
-        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <!-- Semantic UI -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.0/dist/semantic.min.css">
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.0/dist/semantic.min.js"></script>
@@ -27,16 +27,25 @@
 
 <body class="text-center">
 
-    
-    {% include navigation.html %}
-    <div class="mobile only tablet only" style="margin-top: 1.5rem;">
-        <br>
-    </div>
-    <div class="pusher">
-        <div class="ui container" style="margin-top: 3rem; margin-bottom: 4rem;">
-            {{ content }}
+
+{% include navigation.html %}
+<div class="pusher">
+
+    <div>
+        <div class="ui container">
+            <div class="mobile only tablet only" style="margin-top: 5rem;">
+                <div class="row">
+                    <div class="column">
+                        {% include alert_msg.html %}
+                    </div>
+                </div>
+            </div>
+            <div style="margin-top: 2rem; margin-bottom: 4rem;">
+                {{ content }}
+            </div>
         </div>
     </div>
+</div>
 </body>
 
 </html>

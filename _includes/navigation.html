@@ -15,8 +15,10 @@
                         <h3 class="ui header">
                             <i class="home icon"></i>
                             <div class="content">
-                                Bratří Štefanů 895/1
-                                <div class="sub header">500 03, Hradec Králové</div>
+                                {{ site.data.info.address.street }}
+                                <div class="sub header">
+                                    {{ site.data.info.address.city }}
+                                </div>
                             </div>
                         </h3>
                     </div>
@@ -24,15 +26,17 @@
                         <h3 class="ui header">
                             <i class="clock outline icon"></i>
                             <div class="content">
-                                7:30 - 15:00
-                                <div class="sub header">Pondělí až pátek</div>
+                                {{ site.data.info.opening_hours.time }}
+                                <div class="sub header">
+                                    {{ site.data.info.opening_hours.days | capitalize }}
+                                </div>
                             </div>
                         </h3>
                     </div>
                     <div class="five wide column" style="padding-top: 10px;">
                         <div class="ui large blue button" id="phone-button">
                             <i class="horizontally flipped phone icon"></i>
-                            &#43;&#52;&#50;&#48;&#32;&#52;&#57;&#53;&#32;&#56;&#54;&#53;&#32;&#50;&#51;&#48;
+                            {{ site.data.info.contact.phone }}
                         </div>
                     </div>
                 </div>

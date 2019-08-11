@@ -1,0 +1,43 @@
+message:
+  title:
+  text:
+
+contact:
+  phone: "&#43;&#52;&#50;&#48;&#32;&#52;&#57;&#53;&#32;&#56;&#54;&#53;&#32;&#50;&#51;&#48;"
+  email: "&#108;&#111;&#103;&#111;&#112;&#101;&#100;&#105;&#101;&#104;&#107;&#64;&#115;&#101;&#122;&#110;&#97;&#109;&#46;&#99;&#122;"
+
+opening_hours:
+  time: "7:30 - 15:00"
+  days: "pondělí až pátek"
+
+address:
+  name: "Logopedie Hradec Králové s.r.o."
+  street: "Bratří Štefanů 895/1"
+  city: "Hradec Králové, 500 03"
+
+about:
+  jana: >
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    Pellentesque habitant morbi tristique senectus et netus
+    et malesuada fames ac turpis egestas. Quisque porta.
+    Aliquam erat volutpat. Integer pellentesque quam vel velit.
+    Phasellus rhoncus. Proin pede metus, vulputate nec, fermentum fringilla.
+  katerina: >
+    Po ukončení studia logopedie na Univerzitě Palackého v Olomouci
+    jsem získala atestaci v oboru klinická logopedie. Jsem členem Asociace
+    klinických logopedů a v rámci celoživotního vzdělávání prohlubuji
+    své odborné vědomosti na kurzech, konferencích nebo sympoziích.
+
+insurance_companies:
+  - name: Všeobecná zdravotní pojišťovna
+    code: 111
+  - name: Vojenská zdravotní pojišťovna ČR
+    code: 201
+  - name: Česká průmyslová zdravotní pojišťovna
+    code: 205
+  - name: Oborová zdravotní poj. zam. bank, poj. a stav.
+    code: 207
+  - name: Zaměstnanecká pojišťovna Škoda
+    code: 209
+  - name: Zdravotní pojišťovna ministerstva vnitra ČR
+    code: 211

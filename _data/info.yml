@@ -18,13 +18,16 @@ address:
   city: "Hradec Králové, 500 03"
 
 about:
-  jana: >
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-    Pellentesque habitant morbi tristique senectus et netus
-    et malesuada fames ac turpis egestas. Quisque porta.
-    Aliquam erat volutpat. Integer pellentesque quam vel velit.
-    Phasellus rhoncus. Proin pede metus, vulputate nec, fermentum fringilla.
-  katerina: >
+  jana:
+    - Pro studium logopedie jsem si vybrala obor Speciální pedagogika
+      – logopedie na Univerzitě Hradec Králové. Nadále pokračuji ve vzdělávání
+      v oboru klinické logopedie. Velmi důležité je pro mě navázání kvalitního
+      vztahu s dítětem i s rodiči, terapii se vždy snažím klientům „ušít na míru“.
+      Ráda vymýšlím nové a neokoukané pomůcky a snažím se předávat logopedii
+      hravou formou.
+    - Kromě mého domovského pracoviště působím jako logoped na škole pro děti
+      se sluchovým postižením v Hradci Králové a v Dětském denním rehabilitačním stacionáři.
+  katerina:
     Po ukončení studia logopedie na Univerzitě Palackého v Olomouci
     jsem získala atestaci v oboru klinická logopedie. Jsem členem Asociace
     klinických logopedů a v rámci celoživotního vzdělávání prohlubuji

@@ -68,12 +68,12 @@ title: Logopedie Hradec Králové
 <script>
     const new_posts_container = document.getElementById("new_posts_container");
     const new_posts = new_posts_container.getElementsByClassName("post");
-    const two_months_ago_date = new Date(Date.now() - 60*24*60*60*1000).getTime();
+    const two_months_ago_date = new Date(Date.now() - 60 * 24 * 60 * 60 * 1000).getTime();
     const pattern = /(\d{2})\. (\d{2})\. (\d{4})/;
 
     for (let post_container of new_posts) {
         let post_date_string = post_container.querySelector("#date").textContent.trim();
-        let post_date = new Date(post_date_string.replace(pattern,'$3-$2-$1')).getTime();
+        let post_date = new Date(post_date_string.replace(pattern, '$3-$2-$1')).getTime();
         if (post_date > two_months_ago_date) {
             new_posts_container.style.display = 'block';
             post_container.style.display = 'block';
@@ -82,45 +82,29 @@ title: Logopedie Hradec Králové
 </script>
 
 
-
 <div class="ui horizontal divider" style="margin-top: 3rem; margin-bottom: 2rem;">O nás</div>
 
 <div class="ui stackable grid">
-    <div class="two column row">
-        <div class="column">
-            <div class="ui items">
-                <div class="item">
-                    <div class="image">
-                        <img src="assets/img/jana.png" class="ui bordered rounded image">
-                    </div>
-                    <div class="content">
-                        <h2>Mgr.&nbsp;Jana Kadaníková</h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque habitant morbi
-                            tristique senectus
-                            et netus et malesuada fames ac turpis egestas. Quisque porta. Aliquam erat volutpat. Integer
-                            pellentesque quam vel velit. Phasellus rhoncus. Proin pede metus, vulputate nec, fermentum
-                            fringilla.
-                        </p>
-                    </div>
+    <div class="sixteen wide column">
+        <div class="ui items">
+            <div class="item">
+                <div class="image">
+                    <img src="assets/img/jana.png" class="ui bordered rounded image">
+                </div>
+                <div class="content">
+                    <h2>Mgr.&nbsp;Jana Kadaníková</h2>
+                    {% for paragraph in site.data.info.about.jana %}
+                    <p>{{ paragraph }}</p>
+                    {% endfor %}
                 </div>
             </div>
-        </div>
-        <div class="column">
-            <div class="ui items">
-                <div class="item">
-                    <div class="image">
-                        <img
-                            src="https://debatechamber.com/wp-content/uploads/2017/02/bigstock-Portrait-of-a-friendly-female-26984102-2-238x300.jpg">
-                    </div>
-                    <div class="content">
-                        <h2>Mgr.&nbsp;Kateřina Korbelová</h2>
-                        <p>
-                            Po ukončení studia logopedie na Univerzitě Palackého v Olomouci jsem získala atestaci
-                            v oboru klinická logopedie. Jsem členem Asociace klinických logopedů a v rámci celoživotního
-                            vzdělávání prohlubuji své odborné vědomosti na kurzech, konferencích nebo sympoziích.
-                        </p>
-                    </div>
+            <div class="item">
+                <div class="image"></div>
+                <div class="content">
+                    <h2>Mgr.&nbsp;Kateřina Korbelová</h2>
+                    <p>
+                        {{ site.data.info.about.katerina }}
+                    </p>
                 </div>
             </div>
         </div>

@@ -1,21 +1,32 @@
 # Logopedie HK
 
-## How to run
+## How it works (for users)
+
+### Jak přidat nový článek
+
+- Ve složce `_posts/` stačí vytvořit soubor
+  s názvem ve formátu: `YYYY-MM-DD-nazev.md`.
+- Obsah souboru se tvoří pomocí jazyka
+  [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+- Na úvodní stránce se zobrazují příspěvky staré maximálně dva měsíce.
+
+### Jak upravit stránku `logoepedická péče v ČR`
+
+- Stránka se plní daty ze souboru `_includes/logopedicka_pece.md`
+  kromě poslední otázky (ta je přímo v HTML).
+
+### Jak se přidávají aktuality
+
+tbd
+
+### Jak se upravují kontakty a ostatní
+
+tbd  seznam pojistoven, info o doktorech
+
+## How to run (for developers)
 
 ```bash
 bundle exec jekyll serve
 ```
 
 Docs: https://jekyllrb.com/
-
-## How it works
-
-- Na úvodní stránce se zobrazují příspěvky staré maximálně dva měsíce.
-- Stránka s logopedickou péčí se plní daty ze souboru `_includes/logopedicka_pece.md`
-  kromě poslední otázky (ta je přímo v HTML).
-
-## TODO
-
-- zatlacit na fotku!! tu potrebuju
-- vyresit globalni promenne nebo mit jinou moznost menit zakladni udaje jako telefonni cislo a jine
-- vlozit kontakt na uvodni stranku (mimalne asi to, co je nahore nad menu) ... to se asi tyka mobilu?

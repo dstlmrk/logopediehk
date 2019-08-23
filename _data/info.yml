@@ -1,21 +1,15 @@
-# Pokud zustane prazdne, nebude se zprava zobrazovat!
 alert:
   title:
-#  title: Objednávání na srpen uzařeno!
   text:
 
-contact:
-  phone: "&#43;&#52;&#50;&#48;&#32;&#52;&#57;&#53;&#32;&#56;&#54;&#53;&#32;&#50;&#51;&#48;"
-  email: "&#108;&#111;&#103;&#111;&#112;&#101;&#100;&#105;&#101;&#104;&#107;&#64;&#115;&#101;&#122;&#110;&#97;&#109;&#46;&#99;&#122;"
-
 opening_hours:
-  time: "7:30 - 15:00"
-  days: "pondělí až pátek"
+  time: 7:30 - 15:00
+  days: pondělí až pátek
 
 address:
-  name: "Logopedie Hradec Králové s.r.o."
-  street: "Bratří Štefanů 895/1"
-  city: "Hradec Králové, 500 03"
+  name: Logopedie Hradec Králové s.r.o.
+  street: Bratří Štefanů 895/1
+  city: Hradec Králové, 500 03
 
 about:
   jana:
@@ -28,10 +22,10 @@ about:
     - Kromě mého domovského pracoviště působím jako logoped na škole pro děti
       se sluchovým postižením v Hradci Králové a v Dětském denním rehabilitačním stacionáři.
   katerina:
-    Po ukončení studia logopedie na Univerzitě Palackého v Olomouci
-    jsem získala atestaci v oboru klinická logopedie. Jsem členem Asociace
-    klinických logopedů a v rámci celoživotního vzdělávání prohlubuji
-    své odborné vědomosti na kurzech, konferencích nebo sympoziích.
+    - Po ukončení studia logopedie na Univerzitě Palackého v Olomouci
+      jsem získala atestaci v oboru klinická logopedie. Jsem členem Asociace
+      klinických logopedů a v rámci celoživotního vzdělávání prohlubuji
+      své odborné vědomosti na kurzech, konferencích nebo sympoziích.
 
 insurance_companies:
   - name: Všeobecná zdravotní pojišťovna
@@ -46,3 +40,7 @@ insurance_companies:
     code: 209
   - name: Zdravotní pojišťovna ministerstva vnitra ČR
     code: 211
+
+contact:
+  phone: "&#43;&#52;&#50;&#48;&#32;&#52;&#57;&#53;&#32;&#56;&#54;&#53;&#32;&#50;&#51;&#48;"
+  email: "&#108;&#111;&#103;&#111;&#112;&#101;&#100;&#105;&#101;&#104;&#107;&#64;&#115;&#101;&#122;&#110;&#97;&#109;&#46;&#99;&#122;"

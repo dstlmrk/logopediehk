@@ -103,9 +103,9 @@ title: Logopedie Hradec Králové
                 <div class="content">
                     <div class="ui divider"></div>
                     <h2>Mgr.&nbsp;Kateřina Korbelová</h2>
-                    <p>
-                        {{ site.data.info.about.katerina }}
-                    </p>
+                    {% for paragraph in site.data.info.about.katerina %}
+                    <p>{{ paragraph }}</p>
+                    {% endfor %}
                 </div>
             </div>
         </div>

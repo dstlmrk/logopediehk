@@ -35,16 +35,11 @@ Změna by se měla na [logopedie.cz](www.logopedie.cz) projevit do minuty maxim�
   Druhý odstavec. Atd.
   ```
 
-### Jak upravit stránku `logopedická péče v ČR`
-
-Stránka se plní daty ze souboru `_includes/logopedicka_pece.md`
-([zde](https://github.com/dstlmrk/logopediehk/blob/master/_includes/logopedicka_pece.md))
-kromě poslední otázky (ta je přímo v HTML). Opět se používá jazyk
-[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Upravovat soubor lze po kliknutí na symbol tužky:
-
-![](tutorial/edit_file.png)
+- Pokud chceš vložit obrázek, tak ho nahraj do složky `assets/img/posts/`.
+  V textu jej zobrazíš takto:
+  ```markdown
+  ![](assets/img/posts/tvuj_obrazek.png)
+  ```
 
 ### Jak se vytváří důležité upozornění na stránce
 
@@ -67,6 +62,9 @@ alert:
 
 Pokud zůstanou pole prázdná, tak se na stránce žádné upozornění objevovat nebudou.
 
+Upravovat soubor lze po kliknutí na symbol tužky:
+
+![](tutorial/edit_file.png)
 
 ### Jak se upravují kontakty, seznam pojišťoven nebo info o lékařích
 
